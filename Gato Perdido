@@ -1,0 +1,22 @@
+echo "# Gato-perdido" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M 'main' 
+git remote add origin https://github.com/TrindadeL/Gato- perdido.git
+ git push -u origin 'main'
+ 
+ 
+ 
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Cat Lost and Found</title>
+</head>
+<body>
+    <h1>Gato Perdido</h1>
+    <h2>Contato para quem localizar o gato</h2>
+    <p>Meu número é +55 01 0123.45678</p>
+    <img alt="Este é a imagem do gato perdido" src="cat.jpg" />
+</body>
+</html>
